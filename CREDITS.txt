@@ -1,0 +1,8 @@
+Health Bar Sprites:
+	https://github.com/Brackeys/Health-Bar/tree/master/Health%20Bar/Assets/Sprites
+Skull Icon Sprite:
+	https://paperhatlizard.itch.io/cryos-mini-gui
+Knight Sprite:
+	https://aamatniekss.itch.io/fantasy-knight-free-pixelart-animated-character
+Skeleton Enemy Sprite:
+	https://jesse-m.itch.io/skeleton-pack
